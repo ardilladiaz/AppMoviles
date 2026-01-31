@@ -6,7 +6,7 @@
 <h3>Diagrama de Clases:</h3>
 <ul>
 <li><strong>CuentaBancaria</strong> <em>(Superclase)</em>: Define el atributo protegido <em>saldo</em> y el método <em>getSaldo()</em>. Establece que toda cuenta nueva inicia con un saldo de 0.0.</li>
-<li><strong>OperacionesFinancieras</strong> <em>(Interfaz)</em>: Define las firmas de los métodos <em">depositar</em> y <em">retirar</em>, permitiendo la reutilización de código y estandarización de procesos.</li>
+<li><strong>OperacionesFinancieras</strong> <em>(Interfaz)</em>: Define las firmas de los métodos <em>depositar</em> y <em>retirar</em>, permitiendo la reutilización de código y estandarización de procesos.</li>
 <li><strong>CuentaDebito</strong> <em>(Subclase)</em>: Implementa la lógica específica. Se asegura de que no se realicen depósitos negativos y que los retiros no superen el saldo disponible, evitando saldos negativos.</li>
 </ul>
 
