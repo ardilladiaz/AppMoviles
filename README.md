@@ -50,23 +50,18 @@
 
 <ul>
         <li><strong>Clase Principal y Método Main</strong>: La estructura de <em>AlkeWalletApp</em> sigue las directrices del <strong>Manual #1</strong>, lección <em>"Creación de un programa en Java"</em> (p.10).</li>
-        <li><strong>Operaciones Aritméticas</strong>: Los cálculos de depósito, retiro y conversión de divisas (USD/EUR) aplican lo aprendido en el <strong>Manual #2</strong>, lección <em>"Expresiones aritméticas y operadores"</em> (p.9).</li>
-        <li><strong>Sintaxis y Variables</strong>: El uso de tipos double para el saldo y String para credenciales se sustenta en el <strong>Manual #3</strong>, lecciones <em>"Operadores"</em> y <em>"Expresiones, sentencias y bloques".</em> (p.5-6)</li>
+        <li><strong>Operaciones Aritméticas</strong>: Los cálculos de <em>depósito</em>, <em>retiro</em> y <em>conversión de divisas</em> (USD/EUR) aplican lo aprendido en el <strong>Manual #2</strong>, lección <em>"Expresiones aritméticas y operadores"</em> (p.9).</li>
+        <li><strong>Sintaxis y Variables</strong>: El uso de tipos double para el <em>saldo</em> y <em>String</em> para credenciales se sustenta en el <strong>Manual #3</strong>, lecciones <em>"Operadores"</em> y <em>"Expresiones, sentencias y bloques".</em> (p.5-6)</li>
         <li><strong>Validación de Credenciales</strong>: La lógica de login y el uso de <em>.equals()</em> para comparar contraseñas se encuentra en el <strong>Manual #3</strong>, lección <em>"Clase de utilidad: String"</em> (p.15)".</li>
         <li><strong>Control de Flujo (Menú y Registro)</strong>: El uso de bucles <em>while</em> y <em>do-while</em> para el menú de 6 opciones se basa en el <strong>Manual #3</strong>, lección <em>"Sentencias repetitivas"</em> (p.9-10).</li>
         <li><strong>Condicionales de Seguridad</strong>: La restricción para no quedar con saldo negativo utiliza la lógica del <strong>Manual #3</strong>, lección <em>"Sentencias condicionales"</em> (p.7).</li>
+        <li><strong>Convención de nombres y comentarios</strong> : La utilización de <em>CamelCase</em> y <em>Comentarios</em> se presenta en el <strong>Manual #4</strong>, lección <em>Estándares, convenciones y estilos de  codificación</em> (p.3).</li>
         <li><strong>Clases y Objetos</strong>: La creación de instancias de cuenta se fundamenta en el <strong>Manual #5</strong>, sección <em>"Clases y Objetos"</em> (p.3).</li>
-
-
-<li>Encapsulamiento: El uso de modificadores protected y private para proteger el saldo sigue el Manual #5, sección "Encapsulamiento y modificadores de acceso".</li>
-
-
-
-<li>Herencia: La relación entre CuentaBancaria (padre) y CuentaDebito (hija) mediante la palabra extends proviene del Manual #6, lección "Herencia".</li>
-<li>Interfaces: La implementación de OperacionesFinancieras para estandarizar el comportamiento se basa en el Manual #6, sección "Interfaces".</li>
-<li>Pruebas Unitarias: El desarrollo de CuentaDebitoTest con JUnit 5 para validar depósitos y retiros críticos se sustenta en el Manual #7, lección "Pruebas unitarias en Java".</li>
-<li>Aserciones: El uso de assertEquals y assertTrue para verificar la robustez del código proviene del Manual #7, sección "Estructura de una prueba unitaria".</li>
-
+        <li><strong>Encapsulamiento</strong>: El uso de modificadores <em>protected</em> y <em>private</em> para proteger el saldo sigue el <strong>Manual #5</strong>, sección <em>"Modificadores de acceso"</em> (p.8).</li>
+        <li><strong>Herencia</strong>: La relación entre <em>CuentaBancaria</em> (padre) y <em>CuentaDebito</em> (hija) mediante la palabra <em>extends</em> proviene del <strong>Manual #6</strong>, lección <em>"Herencia"</em> (p.3).</li>
+        <li><strong>Interfaces</strong>: La implementación de <em>OperacionesFinancieras</em> para estandarizar el comportamiento se basa en el <strong>Manual #6</strong>, sección <em>"Interfaces"</em> (p.6).</li>
+        <li><strong>Pruebas Unitarias</strong>: El desarrollo de <em>CuentaDebitoTest</em> con <em>JUnit 5</em> para validar <em>depósitos</em> y <em>retiros</em> se sustenta en el <strong>Manual #7</strong>, lección <em>"Pruebas unitarias"</em> (p.3).</li>
+        <li><strong>Aserciones</strong>: El uso de <em>assertEquals</em> y <em>assertTrue</em> para verificar la robustez del código proviene del <strong>Manual #7</strong>, sección <em>"Aserciones"</em> (p.7-8).</li>
 </ul>
 
 
