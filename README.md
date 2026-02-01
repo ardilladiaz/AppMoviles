@@ -44,7 +44,11 @@
 </ul>
 
 <h2>5. Diagrama de flujo de AklkeWallet</h2>
-<div align="center"><img width="433" height="928" alt="diagrama-de-flujo" src="https://github.com/user-attachments/assets/0fbd4efa-3343-4922-a90d-055317da2ff3" /></div>
+<div align="center"><img width="434" height="938" alt="diagrama-de-flujo" src="https://github.com/user-attachments/assets/9267271f-f515-4baa-aa1c-ecfb096f1c09" /></div>
+
+
+
+
 
 <h2>Fuentes</h2>
 
