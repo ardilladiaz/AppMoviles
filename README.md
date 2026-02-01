@@ -42,3 +42,10 @@
 <li><strong>Comentarios en el código</strong>: Se emplearon comentarios para explicar la lógica interna y en métodos clave para facilitar la lectura y entendimiento.</li>
 <li><strong>Legibilidad del Código</strong>: Siguiendo las buenas prácticas de programación, se organizó el código en clases separadas y métodos con responsabilidades únicas para facilitar el mantenimiento.</li>
 </ul>
+
+<h2>5. Diagrama de flujo de AklkeWallet</h2>
+<div align="center"><img width="433" height="928" alt="diagrama-de-flujo" src="https://github.com/user-attachments/assets/0fbd4efa-3343-4922-a90d-055317da2ff3" /></div>
+
+
+
+
