@@ -18,7 +18,7 @@
 <ul>
         <li><strong>Administración de Fondos</strong>: Permite la creación de una cuenta (vía <em>registro/login</em>), visualización de <em>saldo</em>, <em>ingresos</em> y <em>retiros</em>.</li>
         <li><strong>Conversión de Moneda</strong>: Incluye un menú de operaciones para visualizar el saldo en <em>Dólares</em> (USD) y <em>Euros</em> (EUR).</li>
-        <li><strong>Valores de conversión</strong>: USD = 873.36 | EUR = 1028.22 (Viernes 30/ Enero).</li>
+        <li><strong>Valores de conversión</strong>: USD = 873.36 | EUR = 1028.22 (Viernes 30/Enero).</li>
         <li><strong>Estructuras de Control</strong>: Se utilizan bucles <em>while</em> y <em>do-while</em> para la persistencia del menú y validación de credenciales, junto con sentencias <em>switch</em> para la selección de operaciones.</li>
 </ul>
 
