@@ -49,11 +49,13 @@
 <h2>Fuentes</h2>
 
 <ul>
-<li><strong>Clase Principal y Método Main</strong>: La estructura de <em>AlkeWalletApp</em> sigue las directrices del <strong>Manual #1</strong>, <em>Creación de un programa en Java</em> (p.10).</li>
-<li><strong>Sintaxis y Variables</strong>: El uso de tipos double para el saldo y String para credenciales se sustenta en el <strong>Manual #3</strong>, <em>Operadores</em> y <em>Expresiones, sentencias y bloques.</em> (p.5-6)</li>
-<li><strong>Validación de Credenciales</strong>: La lógica de login y el uso de <em>.equals()</em> para comparar contraseñas se encuentra en el <strong>Manual #3</strong>, <em>Clase de utilidad: String</em> (p.15)".</li>
-<li>Control de Flujo (Menú y Registro): El uso de bucles while y do-while para el menú de 6 opciones se basa en el Manual #4, lección "Sentencias repetitivas".</li>
-<li>Operaciones Aritméticas: Los cálculos de depósito, retiro y conversión de divisas (USD/EUR) aplican lo aprendido en el Manual #2, lección "Operadores Aritméticos".</li>
+<li><strong>Clase Principal y Método Main</strong>: La estructura de <em>AlkeWalletApp</em> sigue las directrices del <strong>Manual #1</strong>, lección <em>"Creación de un programa en Java"</em> (p.10).</li>
+<li><strong>Sintaxis y Variables</strong>: El uso de tipos double para el saldo y String para credenciales se sustenta en el <strong>Manual #3</strong>, lecciones <em>"Operadores"</em> y <em>"Expresiones, sentencias y bloques".</em> (p.5-6)</li>
+<li><strong>Validación de Credenciales</strong>: La lógica de login y el uso de <em>.equals()</em> para comparar contraseñas se encuentra en el <strong>Manual #3</strong>, lección <em>"Clase de utilidad: String"</em> (p.15)".</li>
+<li><strong>Control de Flujo (Menú y Registro)</strong>: El uso de bucles <em>while</em> y <em>do-while</em> para el menú de 6 opciones se basa en el <strong>Manual #3</strong>, lección <em>"Sentencias repetitivas"</em> (p.9-10).</li>
+
+
+<li><strong>Operaciones Aritméticas</strong>: Los cálculos de depósito, retiro y conversión de divisas (USD/EUR) aplican lo aprendido en el <strong>Manual #2</strong>, lección "Operadores Aritméticos".</li>
 <li>Condicionales de Seguridad: La restricción para no quedar con saldo negativo utiliza la lógica del Manual #2, lección "Estructuras condicionales".</li>
 <li>Clases y Objetos: La creación de instancias de cuenta se fundamenta en el Manual #5, sección "Clases y Objetos".</li>
 <li>Encapsulamiento: El uso de modificadores protected y private para proteger el saldo sigue el Manual #5, sección "Encapsulamiento y modificadores de acceso".</li>
