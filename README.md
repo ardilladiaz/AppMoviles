@@ -10,7 +10,7 @@
         <li><strong>CuentaDebito</strong> <em>(Subclase)</em>: Implementa la lógica específica. Se asegura de que no se realicen depósitos negativos y que los retiros no superen el saldo disponible, evitando saldos negativos.</li>
 </ul>
 
-<img width="1242" height="577" alt="diagrama-de-clases" src="https://github.com/user-attachments/assets/d0108761-d462-4542-907c-1a2bfd5d896c" />
+<img width="1066" height="672" alt="diagrama-de-clase" src="https://github.com/user-attachments/assets/7995b7cd-e984-4c6b-aab7-93f1c237768e" />
 
 <h2>2. Funcionalidades Implementadas</h2>
 <p>El programa principal (<em>AlkeWalletApp.java</em>) gestiona el flujo de usuario a través de una aplicación de consola.</p>
