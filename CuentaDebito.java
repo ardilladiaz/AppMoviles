@@ -20,9 +20,10 @@ public class CuentaDebito extends CuentaBancaria implements OperacionesFinancier
             System.out.println("Retiro exitoso. Saldo restante: $" + this.saldo);
             return true;
         } else {
-            System.out.println("Error: Fondos insuficientes o monto inválido.");
+            System.out.println("Error: Saldo insuficientes o monto inválido.");
             return false;
         }
     }
 }
+
 
